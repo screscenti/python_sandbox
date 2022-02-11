@@ -6,7 +6,7 @@ name = "Stephen"
 
 age = 47
 
-actual_age = 47.65
+actual_age = 47.75
 
 print(name)
 print(age)
