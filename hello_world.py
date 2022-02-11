@@ -24,7 +24,12 @@ print("Hello, welcome to coffee!")
 #anything in input will automatically be converted to a string
 name = input("what is your name? \n")
 
-print("Hello " + name + " thank you for coming in today \n\n\n")
+if name == "Ben":
+    print("You're not welcome here Evil " + name + "!!! Get Out!")
+    exit()  
+else:
+    print("Hello " + name + ", thank you so much for coming today! \n\n\n")
+
 
 menu =  "Black Coffee, Espresso, Cafe Latte, Cappucino"
 
