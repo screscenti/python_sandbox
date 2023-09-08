@@ -1,7 +1,7 @@
 #Network Chuck Learn Python Episode 3
 
 #playing with numbers - new change
-#we need to add more comments to see how the branching works
+
 name = "Stephen"
 
 age = 47
